@@ -1,4 +1,4 @@
-package org.pm.billingservice.grpc;
+package com.pm.billingservice.grpc;
 
 import io.grpc.stub.StreamObserver;
 import org.slf4j.Logger;
